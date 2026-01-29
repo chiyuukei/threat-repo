@@ -10,6 +10,8 @@
 
 ```
 hxxps://marsalek[.]cy
+185.178.208.168
+hxxps[:]//t[.]me/MetaMaskenMann
 ```
 
 ----
