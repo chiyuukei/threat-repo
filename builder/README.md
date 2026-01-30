@@ -9,7 +9,7 @@
 <img src="https://iad.microlink.io/JWT3qZpRckKhUXhpTvRBZlWYMntNPNhpG19WjFUzSXeqWUNuvpXI1iWx4o6qmcNY0V8CtXEczbWrNRfavJXbDg.png" width="100%">
 
 ```
-hxxps://marsalek[.]cy
+hxxps[:]//marsalek[.]cy
 185.178.208.168
 hxxps[:]//t[.]me/MetaMaskenMann
 ```
